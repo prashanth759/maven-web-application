@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.53.82.222:9980/repository/facebook-release/</url>
+	      <url>http://172.31.20.229:9900/sai/repository/fackbook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.53.82.222:9980/repository/facebook-snapshot/</url>
+	      <url>http://172.31.20.229:9900/sai/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
